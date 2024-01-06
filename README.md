@@ -1,6 +1,7 @@
 # ChessGame
 
 This repository documents my contributions to a team project where we developed a chess game in C++. My primary responsibility was creating sophisticated computer bots with varying difficulty levels. Below are the highlights of my contributions.
+![Alt text](https://file.notion.so/f/f/0cb77461-4bdc-4bb0-9aad-7a4ab68e13ff/43605a83-c969-4374-a81f-53492163412f/Untitled.png?id=f142d6a3-695e-442c-86f5-6ef320c9cafe&table=block&spaceId=0cb77461-4bdc-4bb0-9aad-7a4ab68e13ff&expirationTimestamp=1704672000000&signature=8SumxQ-qeYPqh_OyM4MfdqWZXo7_Uhrxe0tIJY362ws&downloadName=Untitled.png)
 
 ## Project Contributions
 
