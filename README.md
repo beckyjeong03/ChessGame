@@ -31,7 +31,3 @@ This repository documents my contributions to a team project where we developed 
 ### Additional Information
 For more details on the UML design, please visit this [YouTube link](https://youtube.com).
 
----
-
-Feel free to explore the repository to understand more about the project and my role in it. For any questions or collaborations, please reach out to me.
-
