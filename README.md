@@ -31,10 +31,10 @@ This repository documents my contributions to a team project where we developed 
 - **Sequence and Activity Diagrams**: Designed sequence and activity diagrams to model the game flow and bot behaviors.
 - **UML for Collaboration**: Used UML as a collaborative tool for effective communication among team members.
 
-###UML file
+### UML file
 ![uml-final](https://github.com/beckyjeong03/ChessGame/assets/117534707/43c801ea-5d80-4f51-99c2-7f506e2b8df5)
 
-###Project Specification Document
+### Project Specification Document
 [design (1).pdf](https://github.com/beckyjeong03/ChessGame/files/13866510/design.1.pdf)
 
 
