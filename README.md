@@ -1,6 +1,6 @@
 # ChessGame
 
-This repository documents my contributions to a team project where we developed a chess game in C++. My primary responsibility was creating sophisticated computer bots with varying difficulty levels. Below are the highlights of my contributions. Due to policy 71, I am not able to share the 
+This repository documents my contributions to a team project where we developed a chess game in C++. My primary responsibility was creating sophisticated computer bots with varying difficulty levels. Below are the highlights of my contributions. Due to policy 71, I am not able to share the code directly but feel free to ask any questions if you have any. 
 
 <img width="644" alt="Untitled (29)" src="https://github.com/beckyjeong03/ChessGame/assets/117534707/36775d6d-66d8-4743-8b77-d4f68d5e41f2">
 
